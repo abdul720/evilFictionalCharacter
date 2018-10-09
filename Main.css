@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+body {
+    background-image: url("http://i.imgur.com/LfdihFs.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#banner {
+	border: ridge #5B2337 7px;
+	height: 250px;
+	width: 40%;
+	background-image: url("https://66.media.tumblr.com/e96f1dd7025f6138e68fa47b99063aec/tumblr_inline_p165g7X1G41qbjpiv_540.gif");
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #5B2337;
+    border-radius: 20px;
+    margin: auto;
+}
+background-img {
+    width: 500px;
+}
+#nav {
+	border: ridge #5B2337 7px;
+	height: 50px;
+	width: 35%;
+	margin: auto;
+	text-align: center;
+	padding-top: 15px;
+}
+#nav a {
+	padding-left: 10px;
+	padding-right: 10px;
+	color: red;
+}
+#nav a:hover {
+	text-decoration: none;
+	color: orchid;
+}
+#main {
+	border: ridge #5B2337 7px; 
+    height: 550px;
+    width: 500px;
+    margin: auto;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding: 5px;
+}
+.first {
+    height: 250px;
+    width: 400px;
+    position: center;
+    margin-left: 50px;              
+}
+#footer {
+    text-align: center;
+    font-family: cursive;
+    text-decoration: none;
+    color: blue;
+}
+
+*{
+	opacity: .93;
+}
